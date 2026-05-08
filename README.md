@@ -40,6 +40,7 @@ class Jefferson:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Banco de Dados & Ferramentas
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -56,13 +57,6 @@ class Jefferson:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=isjustjefferson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isjustjefferson&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=isjustjefferson&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
@@ -74,10 +68,10 @@ class Jefferson:
 | Projeto | Descrição | Tecnologia |
 |--------|-----------|------------|
 | [📚 Projeto-LPOO](https://github.com/isjustjefferson/Projeto-LPOO) | Projeto de POO desenvolvido no IFPE | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| [🔐 Projeto-Cibersegurança](https://github.com/isjustjefferson/Projeto-Ciberseguranca) | Detecção inteligente de ameaças em redes | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [📈 Projeto-Estatística](https://github.com/isjustjefferson/Projeto-Estatistica) | Análise descritiva de banco de dados | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [📈 churn-mlops](https://github.com/isjustjefferson/churn-mlops) | Pipeline completa de Machine Learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [🗄️ Banco-de-Dados-2](https://github.com/isjustjefferson/Banco-de-Dados-2) | Atividades da disciplina de BD2 no IFPE | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [🏀 Boston Celtics Fan Page](https://github.com/isjustjefferson/Boston-Celtics-Fan-Page) | Fanpage criada na disciplina de Dev Web 1 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| [⚰️ omar-404](https://github.com/isjustjefferson/omar-404) | Sistema Web de gestão funerária | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 ---
 
