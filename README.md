@@ -70,8 +70,8 @@ class Jefferson:
 | [📚 Projeto-LPOO](https://github.com/isjustjefferson/Projeto-LPOO) | Projeto de POO desenvolvido no IFPE | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [📈 churn-mlops](https://github.com/isjustjefferson/churn-mlops) | Pipeline completa de Machine Learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [🗄️ Banco-de-Dados-2](https://github.com/isjustjefferson/Banco-de-Dados-2) | Atividades da disciplina de BD2 no IFPE | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [🏀 Boston Celtics Fan Page](https://github.com/isjustjefferson/Boston-Celtics-Fan-Page) | Fanpage criada na disciplina de Dev Web 1 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-| [⚰️ omar-404](https://github.com/isjustjefferson/omar-404) | Sistema Web de gestão funerária | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| [🏀 Boston Celtics Fan Page](https://github.com/isjustjefferson/Boston-Celtics-Fan-Page) | Fanpage criada na disciplina de Dev Web 1 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| [⚰️ omar-404](https://github.com/isjustjefferson/omar-404) | Sistema Web de gestão funerária | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)![React 19](https://img.shields.io/badge/React_19-20232a?style=flat&logo=react&logoColor=61DAFB)|
 
 ---
 
@@ -80,6 +80,8 @@ class Jefferson:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-isjustjefferson-181717?style=for-the-badge&logo=github)](https://github.com/isjustjefferson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson_Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-silva-1a035836b/)
+[![Email](https://img.shields.io/badge/Email-Jefferson_Silva-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boarhat2018@gmail.com)
 
 </div>
 
@@ -89,6 +91,6 @@ class Jefferson:
 
 <img src="https://komarev.com/ghpvc/?username=isjustjefferson&color=58A6FF&style=flat-square&label=Visualizações+do+perfil" alt="Profile views"/>
 
-*"Todo expert já foi um dia um iniciante."*
+*"Em tudo que fizerem, façam de todo coração, como para o Senhor."*
 
 </div>
